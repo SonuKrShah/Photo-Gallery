@@ -1,0 +1,22 @@
+.btn-select-files {
+  display: block;
+  width: fit-content;
+  margin: auto;
+  border: 1px solid pink;
+  color: black;
+  border-radius: 50%;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  font-size: 1.3rem;
+}
+
+.btn-select-files:hover {
+  background-color: pink;
+  color: white;
+}
+
+.progress-bar {
+  height: 5px;
+  background: rgb(212, 176, 182);
+  margin-top: 20px;
+}
